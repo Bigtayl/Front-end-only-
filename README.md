@@ -1,4 +1,4 @@
-# Besinova - Frontend-Only Flutter App
+# Besinova - Frontend-Only Flutter App,
 
 A clean, frontend-only Flutter application for nutrition and health management. This is a presentation-focused UI project with no backend dependencies.
 
